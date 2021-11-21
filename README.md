@@ -1,2 +1,2 @@
 # Boot
-hai
+berisi file persyaratan masuk bootcamp
